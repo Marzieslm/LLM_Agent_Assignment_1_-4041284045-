@@ -1,4 +1,0 @@
-# Python 3.10+
-# No third-party Python packages are required.
-# The agent uses Python's standard library to call the local Ollama HTTP API.
-# Install Ollama and the instructor-selected model separately before evaluation.
