@@ -1,0 +1,5 @@
+FROM D:/LLM/Qwen3.5-4B-Q4_K_M.gguf
+
+PARAMETER num_ctx 4096
+PARAMETER num_predict 2048
+PARAMETER temperature 0
